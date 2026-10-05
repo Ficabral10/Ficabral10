@@ -9,6 +9,11 @@
 - 🎾 **Off the keyboard:** #1-ranked U-20 beach tennis player in the U.S.
 - 🗣️ English · Portuguese · Spanish
 
+### 🚀 Featured project
+
+**[Premier League Match Predictor](https://github.com/Ficabral10/Premier-League-Predictions)**: compares six ML models (Elo, logistic regression, random forest, XGBoost, a Poisson goals model and an ensemble) on 3,800 unseen matches with a walk-forward backtest. 54.4% accuracy vs a 44.6% baseline, well-calibrated probabilities, and a Streamlit app that predicts any fixture's result and scoreline.
+`Python` `scikit-learn` `XGBoost` `pandas` `Streamlit` `pytest` `GitHub Actions`
+
 ### 🛠️ Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
